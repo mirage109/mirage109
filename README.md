@@ -1,4 +1,18 @@
-# Hello, World!
+# Hello, everyone! 👋
+
+My name is Anastasiia and I'm a frontend developer.
+
+## Skills
+
+- HTML
+- CSS / Sass
+- JavaScript / TypeScript
+- React.js
+- Tailwind CSS
+- Redux / MobX
+- Responsive Web Design
+- UI/UX Design Principles
+
 
 ## My GitHub Stats
 
