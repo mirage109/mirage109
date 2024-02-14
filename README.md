@@ -1,6 +1,6 @@
 # Hello, everyone! 👋
 
-My name is Anastasiia and I'm a frontend developer.
+My name is **Anastasiia** and I'm a frontend developer.
 
 ## Skills
 
