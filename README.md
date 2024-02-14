@@ -1,8 +1,8 @@
 # Hello, everyone! 👋
 
-My name is **Anastasiia** and I'm a frontend developer with a passion for crafting captivating digital experiences.
+## My name is **Anastasiia** and I'm a frontend developer with a passion for crafting captivating digital experiences.
 
-# About Me
+## About Me
 
 - I have a deep-rooted passion for Front-End Development and am constantly working on honing my coding skills to create innovative and user-friendly web applications. My extensive leadership experience has equipped me with strong communication and team-building skills, allowing me to effectively collaborate with others and lead projects to success.
 
