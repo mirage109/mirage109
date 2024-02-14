@@ -21,6 +21,12 @@ My name is **Anastasiia** and I'm a frontend developer with a passion for crafti
 - Responsive Web Design
 - UI/UX Design Principles
 
+## Soft Skills
+- **Teamwork:** I thrive in collaborative environments and enjoy working closely with colleagues to achieve shared objectives.
+- **Problem-Solving:** I approach challenges with critical thinking and a creative mindset, finding innovative solutions to complex problems.
+- **Adaptability:** I'm flexible and adaptable, able to quickly learn and apply new methodologies like Scrum to meet project requirements.
+- **Time Management:** Exceptional organizational skills help me prioritize tasks and meet deadlines efficiently.
+- **Responsibility:** I take ownership of my work and am committed to delivering high-quality results.
 
 ## My GitHub Stats
 
