@@ -1,6 +1,6 @@
-# Hello, everyone! 👋
 
-## My name is **Anastasiia** and I'm a frontend developer with a passion for crafting captivating digital experiences.
+# My name is **Anastasiia**
+## I'm a frontend developer with a passion for crafting captivating digital experiences.
 
 ## About Me
 
