@@ -3,12 +3,7 @@
 ## I'm a frontend developer with a passion for crafting captivating digital experiences.
 
 ## About Me
-
-- I have a deep-rooted passion for Front-End Development and am constantly working on honing my coding skills to create innovative and user-friendly web applications. My extensive leadership experience has equipped me with strong communication and team-building skills, allowing me to effectively collaborate with others and lead projects to success.
-
-- In addition to my technical expertise, I also have a background in digital marketing. This experience has provided me with valuable insights into user behavior and market trends, which I leverage to create compelling and engaging digital experiences.
-
-- Outside of coding, you can find me enjoying a game of beach volleyball, where teamwork and strategy come together in a dynamic and exhilarating environment.
+I have a deep-rooted passion for Front-End Development and am constantly working on honing my coding skills to create innovative and user-friendly web applications. 
 
 ## Skills
 
@@ -22,11 +17,11 @@
 - UI/UX Design Principles
 
 ## Soft Skills
-- **Teamwork:** I thrive in collaborative environments and enjoy working closely with colleagues to achieve shared objectives.
-- **Problem-Solving:** I approach challenges with critical thinking and a creative mindset, finding innovative solutions to complex problems.
-- **Adaptability:** I'm flexible and adaptable, able to quickly learn and apply new methodologies like Scrum to meet project requirements.
-- **Time Management:** Exceptional organizational skills help me prioritize tasks and meet deadlines efficiently.
-- **Responsibility:** I take ownership of my work and am committed to delivering high-quality results.
+- **Teamwork:** 
+- **Problem-Solving:** 
+- **Adaptability:** 
+- **Time Management:** 
+- **Responsibility:**
 
 ## My GitHub Stats
 
