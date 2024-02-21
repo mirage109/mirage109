@@ -17,11 +17,11 @@ I have a deep-rooted passion for Front-End Development and am constantly working
 - UI/UX Design Principles
 
 ## Soft Skills
-- **Teamwork:** 
-- **Problem-Solving:** 
-- **Adaptability:** 
-- **Time Management:** 
-- **Responsibility:**
+- **Teamwork** 
+- **Problem-Solving** 
+- **Adaptability** 
+- **Time Management** 
+- **Responsibility**
 
 ## My GitHub Stats
 
