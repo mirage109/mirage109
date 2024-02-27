@@ -23,6 +23,9 @@ I have a deep-rooted passion for Front-End Development and am constantly working
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mirage109&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## My Portfolio
+[Check here, but is still in progress](https://portfolio-zibla.netlify.app/)
+
 ## Get in Touch
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/anastasia-zibla-20b7b421/) or check my pinned projects below.
