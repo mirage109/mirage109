@@ -15,6 +15,9 @@ I have a deep-rooted passion for Front-End Development and am constantly working
 - Responsive Web Design
 - UI/UX Design Principles
 
+## My Portfolio
+[Check here]
+
 ## My GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mirage109)](https://github.com/anuraghazra/github-readme-stats)
@@ -22,9 +25,6 @@ I have a deep-rooted passion for Front-End Development and am constantly working
 ## My Top Languages
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mirage109&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-## My Portfolio
-[Check here, but is still in progress](https://portfolio-zibla.netlify.app/)
 
 ## Get in Touch
 
